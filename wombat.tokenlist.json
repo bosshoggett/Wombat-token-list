@@ -1,0 +1,16 @@
+{
+  "name": "WOMBAT Token List",
+  "logoURI": "https://raw.githubusercontent.com/bosshoggett/Wombat-token-list/main/wombat_logo.png",
+  "keywords": ["wombat", "token"],
+  "timestamp": "2025-04-11T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0x4A03d168A14F945A5d48B28926Cd14d643212A2C",
+      "symbol": "WOMBAT",
+      "name": "Wombat Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/bosshoggett/Wombat-token-list/main/wombat_logo.png"
+    }
+  ]
+}
